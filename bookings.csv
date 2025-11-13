@@ -1,0 +1,11 @@
+LRNo,Date,From,To,Consignor,Mode,ChargedWeight,RatePerKg,Collection,Delivery
+1001,2025-11-12,Delhi,Mumbai,Acme Logistics,By Air,200,50,500,300
+1002,2025-11-13,Chennai,Bangalore,Omega Transport,By Air,150,60,400,200
+1003,2025-11-14,Kolkata,Hyderabad,Prime Cargo,By Air,250,55,600,350
+1004,2025-11-15,Pune,Delhi,Delta Movers,By Air,100,65,300,150
+1005,2025-11-16,Ahmedabad,Surat,Transport Co.,By Air,300,45,700,400
+1006,2025-11-17,Jaipur,Goa,Fast Freight,By Air,120,70,350,180
+1007,2025-11-18,Bangalore,Mumbai,City Cargo,By Air,220,52,550,320
+1008,2025-11-19,Delhi,Chennai,Eagle Logistics,By Air,180,58,450,260
+1009,2025-11-20,Indore,Kolkata,Swift Moves,By Air,140,63,380,210
+1010,2025-11-21,Lucknow,Patna,King Cargo,By Air,160,48,420,230
